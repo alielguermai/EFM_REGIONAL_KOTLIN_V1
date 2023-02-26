@@ -1,0 +1,12 @@
+Exercice 1:
+1.vrai
+2.vrai
+3.vrai
+4.faux
+5.vrai
+6.vrai
+
+Exercice 2:
+1."Sealed class" est une class en Kotlin qui permet de définir un ensemble limité de sous-classes possibles, connues à la compilation. 
+2."Nested class" est une class qui est definie dans une autre class.
+3."by lazy" permet de créer une propriété dont l'initialisation est reportée jusqu'à ce qu'elle soit accédée pour la première fois. 
